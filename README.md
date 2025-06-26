@@ -4,7 +4,7 @@
 
 Soy desarrollador frontend apasionado por crear experiencias web modernas, eficientes y atractivas. Me enfoco en la calidad del código, el diseño responsivo y la mejora continua.
 
-🚀 Actualmente trabajando en proyectos personales y aprendiendo nuevas tecnologías todos los días.
+🚀 Actualmente estudio en proyectos personales y aprendiendo nuevas tecnologías todos los días en RIWI.
 
 ---
 
@@ -29,10 +29,9 @@ Soy desarrollador frontend apasionado por crear experiencias web modernas, efici
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| `NombreProyecto1` | Breve descripción del proyecto. | HTML, CSS, JS |
-| `NombreProyecto2` | Breve descripción del proyecto. | Python |
-| `NombreProyecto3` | Breve descripción del proyecto. | Canva, Diseño Web |
-
+| [🎵 Page Música](https://romanoinc.github.io/PAGEMUSICA/) | Página web musical con diseño visual llamativo. | HTML, CSS, JS |
+| [🎮 CSS Ninja Practice](https://romanoinc.github.io/practicaCssNinja/) | Ejercicio práctico basado en el framework CSS Ninja. | HTML, CSS |
+| [🎲 CRUDY Game](https://jeisonolaya.github.io/CRUDY-GAME/) | Juego interactivo tipo CRUD desarrollado en equipo. | HTML, CSS, JS |
 
 ---
 
@@ -47,3 +46,4 @@ Puedes contactarme o seguir mi trabajo:
 ---
 
 > Gracias por visitar mi perfil. ¡Estoy abierto a colaborar en nuevos proyectos!
+
